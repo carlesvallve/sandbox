@@ -1,0 +1,9 @@
+{
+    "name": "App",
+    "local": ["helloButton"],
+    "paths": ["components"],
+    "dependencies": {},
+    "styles": [
+        "styles.css"
+    ]
+}
