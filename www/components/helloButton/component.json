@@ -1,0 +1,13 @@
+{
+    "name": "helloButton",
+    "description": "A hello world button",
+    "dependencies": {
+        "component/dom": "*",
+        "component/dialog": "*"
+    },
+    "development": {},
+    "main": "index.js",
+    "scripts": ["index.js"],
+    "templates": ["template.html"],
+    "styles": ["styles.css"]
+}
